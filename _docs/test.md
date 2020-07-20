@@ -1,6 +1,6 @@
 ---
 title: wallace lab test
-permalink: /docs/my-page/
+permalink: /docs/test/
 ---
 
 Hello Wallace Lab!
