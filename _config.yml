@@ -5,10 +5,10 @@ description: >
   Wallace Lab Wiki Page
 lang: en-US
 
-baseurl: "/wallacelab_test" # the subpath of your site, e.g. /blog/
-url: https://akcorut.github.io/wallacelab_test # the base hostname & protocol for your site
-git_address: https://github.com/akcorut/wallacelab_test
-git_edit_address: https://github.com/akcorut/wallacelab_test/blob/gh-pages
+baseurl: "/WallaceLabWiki" # the subpath of your site, e.g. /blog/
+url: https://akcorut.github.io/WallaceLabWiki # the base hostname & protocol for your site
+git_address: https://github.com/akcorut/WallaceLabWiki
+git_edit_address: https://github.com/akcorut/WallaceLabWiki/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
