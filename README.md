@@ -1,23 +1,10 @@
-## Wallace Lab Wiki Page Test:
+# Welcome to the Wallace Lab
 
-A very rough test page for Wallace Lab Wiki Page.
+FIXME: Add an intro here
 
-- Information about proposing changes and pull requests: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests
-
-## Some useful git commands
-
-### To clone this repository
-```sh
-# Clone the repo to your local machine
-$ git clone git@github.com:wallacelab/Discussion.git
-
-# Updating your local repo with changes
-$ git pull
-```
-### To add files/changes from local machine to remote
-```sh
-$ git add .
-$ git add -u # when you have deleted a local file you want to remove from your repository
-$ git commit -m 'what has changed'
-$ git push
-```
+## Guite to repos
+All repos in the lab follow a standard naming convention, starting with a specific prefix and using hyphens as the only punctuation (not underscores or the like, just to keep things standard).
+* `lab-` : Lab administration stuff (like this Wiki, monthly figures, etc.)
+* `paper-` : Code tied to a specific publication. The repo name should also include a year (e.g., `proj-maize-phyllosphere-2014`), usually the year of submission or publication
+* `collab-`: Collaborations with other labs/users
+* `proj-`: Project code (uncommon; most projects are kept in people's individual accounts)
