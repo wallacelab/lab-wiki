@@ -1,6 +1,10 @@
 # Welcome to the Wallace Lab
 
-FIXME: Add an intro here
+This is the Lab Wiki, meant to be a repository for tips, protocols, and information the lab has accumulated over time.
+
+Click the "Wiki" tab at top to go to the wiki itself.
+
+See [this guide](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content) for instructions on how to edit & format wiki pages.
 
 ## Guite to repos
 All repos in the lab follow a standard naming convention:
