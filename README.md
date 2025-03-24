@@ -14,6 +14,7 @@ All repos in the lab follow a standard naming convention:
   * `lab-` : Lab administration stuff (like this Wiki, monthly figures, etc.)
   * `paper-` : Code tied to a specific publication. The repo name should also include a year (e.g., `proj-maize-phyllosphere-2014`), usually the year of submission or publication
   * `collab-`: Collaborations with other labs/users
+  * `notebook-`: Lab notebook for an individual, which should include their first and last name, e.g., `notebook-jason-wallace`
   * `proj-`: Project code (uncommon; most projects are kept in people's individual accounts)
 
 Examples: `lab-monthly-figures`, `paper-maize-phyllosphere-2014`, etc.
